@@ -1,15 +1,12 @@
-# Road-Accident-Dashboard
-Shows the detailed analysis of road accident in past two years.
-Project Overview
-# 🛣️ Road Accident Data Analysis Dashboard
+# Road Accident Data Analysis Dashboard
 
-## 📘 Project Overview
+## Project Overview
 This project presents a **Road Accident Analysis Dashboard** developed in **Microsoft Excel** to analyze and visualize accident data.  
 It helps identify accident patterns, key contributing factors, and supports **data-driven decision-making** to improve road safety initiatives.
 
 ---
 
-## 📊 Dashboard Summary
+## Dashboard Summary
 | Metric | Value | Percentage |
 |:---------------------------|:-----------:|:------------:|
 | **Total Casualties** | 417,883 | 100% |
@@ -20,7 +17,12 @@ It helps identify accident patterns, key contributing factors, and supports **da
 
 ---
 
-## 🔍 Key Insights
+## Dashboard Preview
+![Road Accident Dashboard](dashboard-image.png)
+
+---
+
+## Key Insights
 - **Vehicle Type:** Cars contribute the highest number of casualties, followed by motorcycles and goods vehicles.  
 - **Road Type:** Single carriageways account for the largest share of accidents (~309K).  
 - **Location & Light Conditions:** Urban and daylight conditions show higher casualty counts.  
@@ -28,7 +30,7 @@ It helps identify accident patterns, key contributing factors, and supports **da
 
 ---
 
-## 🧩 Dashboard Components
+## Dashboard Components
 1. **KPI Indicators** – Summarized casualty statistics.  
 2. **Visual Charts** – Line, pie, and bar charts for comparative analysis.  
 3. **Filter Panel** – Interactive filters for year, period, and area (Rural / Urban).  
@@ -36,7 +38,7 @@ It helps identify accident patterns, key contributing factors, and supports **da
 
 ---
 
-## 🛠️ Tools & Technologies
+## Tools & Technologies
 - Microsoft Excel (Power Query, Pivot Tables, Charts)  
 - Data Cleaning and Aggregation  
 - KPI and Dashboard Design  
@@ -44,12 +46,14 @@ It helps identify accident patterns, key contributing factors, and supports **da
 
 ---
 
-## 🔗 Dataset and Dashboard Access
+## Dataset and Dashboard Access
 Access the dataset and dashboard through the link below:  
-📄 [**Road Accident Data – Google Sheets**](https://docs.google.com/spreadsheets/d/1RwGCf-xXB23ruH19ahH9VsdpOAHqjzc6/edit?usp=drive_link&ouid=111379218740489260381&rtpof=true&sd=true)
+[**Road Accident Data – Google Sheets**](https://docs.google.com/spreadsheets/d/1RwGCf-xXB23ruH19ahH9VsdpOAHqjzc6/edit?usp=drive_link&ouid=111379218740489260381&rtpof=true&sd=true)
+
 
 ---
-## 🚀 Future Enhancements
+
+## Future Enhancements
 - Integration with **Power BI** for interactive online reporting.  
 - Predictive analysis using **Python (Pandas, NumPy, Matplotlib)**.  
 - Automated generation of monthly accident trend reports.  
@@ -57,10 +61,8 @@ Access the dataset and dashboard through the link below:
 
 ---
 
-## 👤 Author
-**Raju Kumar**  
-📧 Email: [desto01try@gmail.com](mailto:desto01try@gmail.com)  
-📅 Created: November 2025  
-
----
+## Contact
+**Author:** Raju Kumar  
+**Email:** [desto01try@gmail.com](mailto:desto01try@gmail.com)  
+**Created:** November 2025  
 
